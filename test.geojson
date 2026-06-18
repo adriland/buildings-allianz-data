@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"id":"b1","name":"Test A","height":24.6,"floors":7},"geometry":{"type":"Polygon","coordinates":[[[2.3,48.86],[2.301,48.86],[2.301,48.861],[2.3,48.861],[2.3,48.86]]]}},
+{"type":"Feature","properties":{"id":"b2","name":"Test B","height":50.0,"floors":15},"geometry":{"type":"Polygon","coordinates":[[[2.31,48.87],[2.311,48.87],[2.311,48.871],[2.31,48.871],[2.31,48.87]]]}}
+]}
